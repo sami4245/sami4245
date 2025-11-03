@@ -16,6 +16,17 @@
 </p>
 
 ---
+### 🏢 معلومات العمل
+<div align="center" style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; max-width: 500px; margin: auto;">
+
+- 🏢 **الشركة:** شركة فالكوم - للصناعه. 
+- 📍 **الموقع:** السعوديه - القصيم - بريدة. 
+
+</div>
+
+
+
+---
 
 ### 🎓 المعلومات الأكاديمية
 <div align="right" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; max-width: 500px; margin: auto;">
