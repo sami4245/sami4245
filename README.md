@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🧍 صورتك الشخصية -->
-<img src="https://via.placeholder.com/150" alt="صورة سامي" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
+<img src="https://github.com/sami4245/sami4245/blob/main/DSC_0110%20co.jpg" alt="صورة سامي" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
 
 <!-- ✨ الاسم -->
 <h2>م/ سامي الشخظه</h2>
