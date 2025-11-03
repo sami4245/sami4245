@@ -75,9 +75,4 @@
 </div>
 
 ---
-
-<!-- إخفاء قسم الـ Contribution activity -->
-<div align="center">
-  <hr style="border: none; height: 50px;">
-  <img src="https://github.com/sami4245/sami4245/assets/0/blank.png" alt="." width="0" height="300">
-</div>
+---
