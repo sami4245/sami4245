@@ -29,7 +29,7 @@
 ---
 
 ### 🎓 المعلومات الأكاديمية
-<div align="right" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; max-width: 500px; margin: auto;">
+<div align="right" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; max-width: 500px; margin: auto; border-color:#ccc; border-radius:12px;">
 
 - 📘 **بكالوريوس محاسبة**  
   <sub>🖼️ [عرض الشهادة](ضع_رابط_صورة_الشهادة_هنا)</sub>  
@@ -39,8 +39,6 @@
 
 - 🧾 **شهادة النظام المحاسبي - الأونكس برو**  
   <sub>🖼️ [عرض الشهادة](ضع_رابط_صورة_الشهادة_هنا)</sub>
-
-</div>
 
 ---
 
@@ -75,3 +73,5 @@
 </div>
 
 </div>
+
+---
