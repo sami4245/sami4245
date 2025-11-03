@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sami4245/sami4245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🧍 صورتك الشخصية -->
+<img src="https://via.placeholder.com/150" alt="صورة سامي" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
 
-Here are some ideas to get you started:
+<!-- ✨ الاسم -->
+<h2>م/ سامي الشخظه</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 💼 المسمى الوظيفي -->
+<p><strong>محاسب عام</strong></p>
+
+<!-- 📜 نبذة عنك -->
+<p align="center" style="max-width: 600px;">
+امتلك خبرة كبيرة في إعداد التقارير المالية، وتحليل البيانات، وإدارة الميزانيات، بدقة واحترافية عالية، 
+مع التزام تام بمعايير العمل المالي والمحاسبي.
+</p>
+
+---
+
+### 🎓 المعلومات الأكاديمية
+<div align="right" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; max-width: 500px; margin: auto;">
+
+- 📘 **بكالوريوس محاسبة**  
+  <sub>🖼️ [عرض الشهادة](ضع_رابط_صورة_الشهادة_هنا)</sub>  
+
+- 💻 **شهادة الرخصة الدولية لقيادة الحاسوب (ICDL)**  
+  <sub>🖼️ [عرض الشهادة](ضع_رابط_صورة_الشهادة_هنا)</sub>  
+
+- 🧾 **شهادة النظام المحاسبي - الأونكس برو**  
+  <sub>🖼️ [عرض الشهادة](ضع_رابط_صورة_الشهادة_هنا)</sub>
+
+</div>
+
+---
+
+### 🌐 اللغات
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; width: 120px;">
+🇸🇦 العربية
+</div>
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; width: 120px;">
+🇬🇧 English
+</div>
+
+</div>
+
+---
+
+### 🔗 حسابات التواصل
+<div align="center" style="margin-top: 20px;">
+
+<!-- واتساب -->
+<a href="https://wa.me/966570115251" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&style=for-the-badge" alt="WhatsApp">
+</a>
+
+<!-- فيسبوك -->
+<a href="ضع_رابط_الفيسبوك_هنا" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook&style=for-the-badge" alt="Facebook">
+</a>
+
+</div>
+
+</div>
