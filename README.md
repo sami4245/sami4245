@@ -24,22 +24,6 @@
 
 </div>
 
-
-
----
-
-### 🎓 المعلومات الأكاديمية
-<div align="right" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; max-width: 500px; margin: auto; border-color:#ccc; border-radius:12px;">
-
-- 📘 **بكالوريوس محاسبة**  
-  <sub>🖼️ [عرض الشهادة](ضع_رابط_صورة_الشهادة_هنا)</sub>  
-
-- 💻 **شهادة الرخصة الدولية لقيادة الحاسوب (ICDL)**  
-  <sub>🖼️ [عرض الشهادة](ضع_رابط_صورة_الشهادة_هنا)</sub>  
-
-- 🧾 **شهادة النظام المحاسبي - الأونكس برو**  
-  <sub>🖼️ [عرض الشهادة](ضع_رابط_صورة_الشهادة_هنا)</sub>
-
 ---
 
 ### 🌐 اللغات
@@ -52,6 +36,30 @@
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; width: 120px;">
 🇬🇧 English
 </div>
+
+</div>
+
+---
+
+🎓 المعلومات الأكاديمية
+
+<div align="right" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; max-width: 500px; margin: auto; border-color:#ccc; border-radius:12px;">
+
+📘 بكالوريوس محاسبة
+<sub>🖼️ [عرض الشهادة](https://example.com/cert1.jpg)</sub>
+
+💻 الرخصة الدولية لقيادة الحاسوب (ICDL)
+![شهادة ICDL](https://github.com/sami4245/sami4245/blob/main/International%20Computer%20Driving%20License-ICDL%20V6.jpg)
+
+🧾 شهادة النظام المحاسبي - الأونكس برو  
+![شهادة الأونكس برو](https://github.com/sami4245/sami4245/blob/main/Onyx%20-%20Pro%20-%20System%20%20.jpg)
+
+📜 شهادات أخرى:
+1
+![شهادة 1](https://github.com/sami4245/sami4245/blob/main/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9%20%D8%B4%D9%83%D8%B1%20%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1%20.jpg)
+
+2  
+![شهادة 2](https://github.com/sami4245/sami4245/blob/main/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9%20%D8%B4%D9%83%D8%B1%20%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1%202.jpg)
 
 </div>
 
