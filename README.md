@@ -46,13 +46,18 @@
 <div align="right" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; max-width: 500px; margin: auto; border-color:#ccc; border-radius:12px;">
 
 📘 بكالوريوس محاسبة
-<sub>🖼️ [عرض الشهادة](https://example.com/cert1.jpg)</sub>
+![شهادة البكالوريوس](https://github.com/sami4245/sami4245/blob/main/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AE%D8%B1%D8%AC_1.jpg)
 
 💻 الرخصة الدولية لقيادة الحاسوب (ICDL)
 ![شهادة ICDL](https://github.com/sami4245/sami4245/blob/main/International%20Computer%20Driving%20License-ICDL%20V6.jpg)
 
 🧾 شهادة النظام المحاسبي - الأونكس برو  
 ![شهادة الأونكس برو](https://github.com/sami4245/sami4245/blob/main/Onyx%20-%20Pro%20-%20System%20%20.jpg)
+
+📊 أساسيات المحاسبة
+![شهادة أساسيات المحاسبة](https://github.com/sami4245/sami4245/blob/main/%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87.jpg)
+
+</div>
 
 📜 شهادات أخرى:
 1
